@@ -5,13 +5,13 @@ A high-accuracy face recognition system built using Python and deep learning tec
 
 ## 📌 Key Features
 
-- ✅ **92% Accuracy** in facial recognition across lighting and angle variations
-- 🚀 **28% Accuracy Boost** in overall system performance via deep learning pipeline
-- 🧠 Integration of **multiple machine learning models** for comparison and evaluation
-- 🔁 **Data augmentation** to improve generalization and reduce overfitting
-- 📊 Visual analysis of model performance and decision boundaries
+-  **92% Accuracy** in facial recognition across lighting and angle variations
+-  **28% Accuracy Boost** in overall system performance via deep learning pipeline
+-  Integration of **multiple machine learning models** for comparison and evaluation
+-  **Data augmentation** to improve generalization and reduce overfitting
+-  Visual analysis of model performance and decision boundaries
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python 3.8+
 - OpenCV
@@ -20,7 +20,7 @@ A high-accuracy face recognition system built using Python and deep learning tec
 - NumPy / Pandas
 - Matplotlib / Seaborn
 
-## 🔍 Project Structure
+##  Project Structure
 face-recognition-system/
 │
 ├── data/ # Raw and augmented image datasets
@@ -35,7 +35,7 @@ face-recognition-system/
 └── README.md # Project documentation
 
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 
